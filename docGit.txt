@@ -1,5 +1,6 @@
 Esta es el primer repositorio Git
 
-hoy es 26 de enero 2023
+hoy es 25 de enero  2023
+
 
 empezaremos ya.
